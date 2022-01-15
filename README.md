@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joseabermudez
-- 👀 I’m interested in programming with groovy for Camunda CMMN modeler.
-- 🌱 I’m currently learning how to write scripts for attending events with case, task and variable listeners.
-- 💞️ I’m looking to collaborate on ...anyone learning similar topics.
+- 👀 I’m interested in programming with Visual Studio..
+I used to work with Visual Basic. Now I´m learning C#.
 - 📫 How to reach me ... joseabermudezgarrido@gmail.com
 - Thanks.
 
