@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseabermudez
-- 👀 I’m interested in programming with Visual Studio..
-I used to work with Visual Basic. Now I´m learning C#.
+- 👀 I’m interested in programming with Visual Studio n VisualStudio Code, mostly.
+I used to work with Visual Basic. Now I´m learning C#. Also trying JavaScript n TypeScript, pointing to web design!
 - 📫 How to reach me ... joseabermudezgarrido@gmail.com
 - Thanks.
 
